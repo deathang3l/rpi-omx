@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////////////////////////
+///
+/// \brief Main, holds the 'main' function
+///
+/// Probably should implement some lts command line tool
+///
+///////////////////////////////////////////////////////////////////////////////
+
+// macros
+// custom includes
+// system includes
+// global - static - export
+// end of preamble
+int main(int argc, char * argv[])
+{
+
+}
